@@ -1,0 +1,29 @@
+Python supports several arithmetic operators used for mathematical calculations. Here's a list of all the basic arithmetic operators in Python with examples:
+
+✅ List of Arithmetic Operators in Python
+Operator	Description	Example	Result
++	Addition	5 + 3	8
+-	Subtraction	5 - 3	2
+*	Multiplication	5 * 3	15
+/	Division (float)	5 / 2	2.5
+//	Floor Division	5 // 2	2
+%	Modulus (remainder)	5 % 2	1
+**	Exponentiation	2 ** 3	8
+
+🧪 Example Python Code Using All Operators
+python
+Copy
+Edit
+# Define two numbers
+a = 10
+b = 3
+
+# Arithmetic operations
+print("a + b =", a + b)     # Addition
+print("a - b =", a - b)     # Subtraction
+print("a * b =", a * b)     # Multiplication
+print("a / b =", a / b)     # Division (float)
+print("a // b =", a // b)   # Floor Division
+print("a % b =", a % b)     # Modulus
+print("a ** b =", a ** b)   # Exponentiation
+Would you like to make this into a calculator app with user input?
